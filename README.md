@@ -110,7 +110,7 @@ The schema represents a digital music store. Here are the major tables and their
 ## 👤 Author
 
 **Your Name**  
-[GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
+[GitHub](https://github.com/Rohitkamble6458) | [LinkedIn](https://linkedin.com/Rohitkamble6458)
 
 ---
 
