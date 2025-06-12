@@ -132,16 +132,11 @@ For countries where the top amount spent is shared, provide all customers who sp
 
 ## 👤 Author
 
-**Your Name**  
+**ROhit Kamble**  
 [GitHub](https://github.com/Rohitkamble6458) | [LinkedIn](https://www.linkedin.com/in/rohitkamble6458/)
 
 ---
 
-## 📄 License
-
-This project is free to use and modify for educational and non-commercial purposes.
-
----
 
 ## ⭐ Highlights
 
