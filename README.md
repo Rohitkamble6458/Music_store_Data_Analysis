@@ -133,8 +133,8 @@ For countries where the top amount spent is shared, provide all customers who sp
 ## 👤 Author
 
 **Rohit Kamble**  
-[GitHub](https://github.com/Rohitkamble6458) | [LinkedIn](https://www.linkedin.com/in/rohitkamble6458/)
-
+[GitHub](https://github.com/Rohitkamble6458) | [LinkedIn](https://www.linkedin.com/in/rohitkamble6458/) |
+[Email ID](rohitkamble6458@gmail.com)
 ---
 
 
